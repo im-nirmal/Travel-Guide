@@ -1,0 +1,93 @@
+.cover{
+    width: 100%;
+    height: 700px;
+    background-image: url("https://images.unsplash.com/photo-1433838552652-f9a46b332c40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cover-caption{
+    list-style: none;
+    text-align: center;
+    margin-top: 105px;
+    margin-left:550px;
+    font-size: 55px;
+    font-family: 'Dancing Script', cursive;
+    color: beige;
+    font-weight: 900;
+}
+#cover-btn{
+    margin-left: 700px;
+    margin-top: 50px;
+    background-color: green;
+    color: white;
+    border-color: green;
+    border-radius: 8px;
+    padding: 5px 20px;
+}
+
+
+
+
+#package-btn{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 45%;
+    padding: 5px 20px;
+    border-color: blue;
+}
+#honey-caption{
+    margin-left: 550px;
+    margin-top: 20px;
+    
+}
+#h-card:hover{
+    box-shadow: 5px 5px #888888;
+}
+
+/* north indian */
+
+#north-caption{
+    margin-left: 400px;
+}
+#n-card{
+    transition: all 0.3s;
+}
+#n-card:hover{
+    transform: scale(1.15);
+    
+}
+
+
+/* features */
+#pre-caption{
+    margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+/* footer */
+.col>h6{
+    margin-left: 68px;
+    margin-top: 23px;
+}
+.text-body{
+    text-decoration: none;
+    line-height: 1.3rem;
+}
+#icon{
+    list-style: none;
+    
+}
+.icon-link{
+    text-decoration: none;
+    color: black;
+   
+}
